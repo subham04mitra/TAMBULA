@@ -1,0 +1,30 @@
+{
+    "user":{
+        "userid":{
+            "type":"String"
+        },     
+        "Password":{
+            "type":"String"
+        }
+    },
+    "jwt":{
+        "Token":{
+            "type":"String"
+        },
+        "userid":{
+            "type":"String"
+        },
+        "Built_Time":{
+            "type":"Date"
+        },
+        "Logout":{
+            "type":"Boolean"
+        }
+    },
+   
+"ticket":{
+    "userid":"String",
+    "tickets":"Array"
+}
+
+}
